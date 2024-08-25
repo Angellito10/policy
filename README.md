@@ -141,4 +141,143 @@
 
 ---
 
-تأكد من تخصيص أي تفاصيل محددة مثل العنوان الفعلي والبريد الإلكتروني بناءً على معلومات الاتصال الفعلية لمؤسستك.
+
+---
+
+**Privacy Policy and Terms of Use**
+
+**1. Introduction**
+
+1.1 **Welcome to Our Website**  
+   Welcome to "Yemen Shabab Net," operated by Details Media, a company registered in Jordan (hereinafter referred to as "Yemen Shabab," "we," "us," or "our"). Our registered office is located at Details Media, Jordan.
+
+1.2 **Purpose**  
+   This Privacy Policy ("Policy") outlines how we collect, use, disclose, and protect your personal data when you visit our website and use our services. Please read this Policy carefully as it governs your use of our website. We may update this Policy from time to time, so please review it regularly for any changes.
+
+1.3 **Scope**  
+   This Policy applies to all individuals interacting with Yemen Shabab, including customers, website visitors, app users, and others who use our services ("you," "your").
+
+**2. Collection of Personal Data**
+
+2.1 **Data Sources**  
+   We collect personal data from the following sources:
+   - **Direct Collection**: Information you provide directly when you register, fill out forms, or interact with our services.
+   - **Indirect Collection**: Information collected through your use of our website and applications, including cookies and similar technologies.
+   - **Third-Party Sources**: Information from third parties such as social media platforms and partners.
+
+2.2 **Types of Data Collected**  
+   - **Personal Details**: Name, contact information, and other identifiers.
+   - **Demographic Information**: Age, gender, and interests.
+   - **Usage Data**: Data about how you interact with our website and services.
+   - **Location Data**: Geographical information if provided or inferred.
+
+| **Data Type**        | **Description**                             |
+|----------------------|---------------------------------------------|
+| Personal Details     | Name, email, phone number                   |
+| Demographic Information | Age, gender, preferences                |
+| Usage Data           | Browsing history, interaction data           |
+| Location Data        | IP address, GPS data                        |
+
+**3. Sensitive Personal Data**
+
+3.1 **Definition and Handling**  
+   We do not seek to collect sensitive personal data unless necessary. Sensitive data includes information about race, health, religious beliefs, etc. If such data is collected, it will be done in compliance with applicable laws and with your explicit consent.
+
+**4. Purpose and Legal Basis for Processing**
+
+4.1 **Processing Purposes**  
+   We process your personal data for the following purposes:
+   - **Account Management**: To manage and maintain your account.
+   - **Service Improvement**: To enhance our services and website.
+   - **Communication**: To inform you about updates, promotions, and service changes.
+   - **Legal Compliance**: To comply with legal obligations.
+
+4.2 **Legal Basis**  
+   We process your data based on:
+   - **Consent**: Where you have given your consent for specific processing.
+   - **Legitimate Interests**: For purposes that are in our legitimate business interests.
+   - **Legal Obligation**: To comply with legal requirements.
+
+**5. Data Sharing and Third Parties**
+
+5.1 **Disclosure to Third Parties**  
+   We may share your data with:
+   - **Service Providers**: Third-party vendors who assist with our operations.
+   - **Business Partners**: Partners for joint marketing and other collaborative activities.
+   - **Legal Authorities**: If required by law or to protect our rights.
+
+5.2 **Data Transfer**  
+   Your data may be transferred to countries outside your jurisdiction. We ensure such transfers comply with applicable data protection laws and implement safeguards such as Standard Contractual Clauses.
+
+**6. Data Security**
+
+6.1 **Security Measures**  
+   We implement various security measures to protect your personal data, including encryption, firewalls, and secure server environments.
+
+6.2 **User Responsibility**  
+   You are responsible for maintaining the confidentiality of your login credentials and should notify us immediately if you suspect unauthorized access.
+
+**7. Data Accuracy and Minimization**
+
+7.1 **Data Accuracy**  
+   We strive to ensure your personal data is accurate and up-to-date. Please inform us of any changes to your information.
+
+7.2 **Data Minimization**  
+   We collect and process only the data necessary for the purposes outlined in this Policy.
+
+**8. Data Retention**
+
+8.1 **Retention Period**  
+   We retain your personal data for as long as necessary to fulfill the purposes for which it was collected or as required by law.
+
+8.2 **Deletion**  
+   When data is no longer needed, we will securely delete or anonymize it.
+
+**9. User Rights**
+
+9.1 **Access and Control**  
+   You have the right to:
+   - **Access**: Request a copy of your personal data.
+   - **Correct**: Request corrections to inaccurate or incomplete data.
+   - **Delete**: Request the deletion of your personal data under certain conditions.
+   - **Restrict**: Request restriction on processing your data in specific cases.
+
+9.2 **Complaints**  
+   You can lodge complaints with relevant data protection authorities if you believe your rights have been violated.
+
+**10. Cookies and Similar Technologies**
+
+10.1 **Cookies Usage**  
+   We use cookies and similar technologies to enhance your experience and track user behavior.
+
+10.2 **Consent Management**  
+   You can manage your cookie preferences through your browser settings. Disabling cookies may affect your ability to use certain features of our website.
+
+**11. Direct Marketing**
+
+11.1 **Marketing Communications**  
+   We may use your personal data to send you promotional materials. You can opt-out of receiving such communications at any time by following the unsubscribe instructions provided in the communications.
+
+**12. Contact Information**
+
+12.1 **Contact Details**  
+   For questions or concerns regarding this Privacy Policy, or to exercise your rights, please contact us at:
+   - **Email**: [info@yamenshabaab.net](mailto:info@yamenshabaab.net)
+   - **Address**: Details Media, Jordan (specific address on our website)
+
+**13. Additional Information**
+
+13.1 **Creation of Personal Data**  
+   We may create personal data through interactions with our website or system logs.
+
+13.2 **Data Protection Officer (DPO)**  
+   If applicable, our DPO can be contacted at [dpo@yamenshabaab.net](mailto:dpo@yamenshabaab.net).
+
+13.3 **International Data Transfers**  
+   We use mechanisms such as Standard Contractual Clauses to ensure adequate protection for international data transfers.
+
+**14. Changes to This Policy**
+
+14.1 **Updates**  
+   We may update this Policy from time to time. The revised Policy will be posted on our website with an updated effective date.
+
