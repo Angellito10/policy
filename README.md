@@ -192,3 +192,201 @@
 إذا كان لديك أي أسئلة إضافية أو تحتاج إلى تفاصيل أكثر حول أي من الأقسام المذكورة أعلاه، يرجى عدم التردد في الاتصال بنا عبر المعلومات المقدمة.
 
 ---
+English version of the privacy policy:
+
+---
+
+## Privacy Policy
+
+**Welcome to Our Website and Applications**  
+Welcome to "Yemen Youth Channel," managed by Detail Media, registered in Jordan (referred to here as "Yemen Youth Channel," "we," or "us"). Our registered office is at Detail Media, Jordan.
+
+### 1. General Information
+
+This policy explains how we collect, use, and protect your personal data that we process. It also outlines your rights regarding your personal data and how to contact us if you have any questions or concerns. We update this policy regularly to ensure compliance with laws and best practices.
+
+- **Data Controller:** Yemen Youth Channel (referred to as "Yemen Youth Channel" or "we") is the data controller responsible for processing your personal data. You can learn more about data protection responsibilities by contacting us.
+- **Updates:** As privacy laws and practices evolve, we may update this policy periodically. We recommend reviewing it regularly to stay informed of any changes.
+- **Scope:** This policy applies to all individuals interacting with Yemen Youth Channel, including customers, website visitors, app users, and other users ("you," "your").
+
+### 2. Collection of Your Personal Data
+
+We collect your personal data from various sources to provide and improve our services effectively. This data may include information you provide directly or data collected through your interactions with our websites or applications.
+
+- **Directly Provided Data:** When you register for our services or contact us via email or phone, we may collect information such as your name, email address, and contact details.
+- **App Data:** When you use our applications, we may collect data about how you use the app, such as device and location information.
+- **Website Data:** When you visit our websites, we may collect information about your interactions with the site, such as pages you visit and links you click.
+- **Registration Details:** Includes registration data such as username, password, and other verification details necessary for accessing our services.
+
+**Additional Sources:**
+- **Public Data:** Such as information you share on social media or other public platforms.
+- **Third-Party Data:** We may receive your data from other sources like business partners or service providers we work with.
+
+### 3. Creation of Your Personal Data
+
+We may create new data based on your interactions and activity details with us. This data may include records of your conversations with us, communications, and request details.
+
+- **Types of Data:** Includes records of your conversations with us, interactions with our services, or request details. This information helps us improve our services and tailor your experience.
+
+### 4. Categories of Personal Data We May Process
+
+We process several types of personal data to assist us in providing services effectively and personalizing your experience.
+
+| **Type of Data**    | **Description**                                 |
+|----------------------|-------------------------------------------------|
+| Name, email address, phone number | Personal data                              |
+| Age, gender, preferences | Demographic data                             |
+| Browsing history, interaction data | Usage data                                |
+| IP address, GPS data | Location data                                |
+
+### 5. Sensitive Personal Data
+
+We may process sensitive personal data in certain situations but ensure that we handle such data with care according to applicable laws.
+
+- **Legal Grounds for Processing Sensitive Data:**
+  - **Legal Compliance:** Such as compliance with employment or health regulations.
+  - **Crime Detection and Prevention:** Such as detecting fraud or criminal activities.
+  - **Establishing or Defending Legal Rights:** Such as using data in legal proceedings.
+  - **Consent:** When we obtain your explicit consent to process sensitive data.
+
+### 6. Purposes for Processing Your Personal Data and Legal Grounds for Processing
+
+We process your personal data for specific purposes, relying on various legal grounds to ensure compliance with laws and protection of your rights.
+
+- **Providing Services and Communication:**
+  - **Purposes:** To deliver our services, communicate with you about your requests, and provide technical support.
+  - **Legal Basis:** Legitimate interest or consent, depending on the service and interaction.
+- **Account Management:**
+  - **Purposes:** To create, manage, and update your account and ensure account security.
+  - **Legal Basis:** Consent provided at registration.
+- **Business Management:**
+  - **Purposes:** To operate and deliver our services efficiently and analyze performance.
+  - **Legal Basis:** Legitimate interest to ensure effective service delivery.
+- **Surveys and Service Improvement:**
+  - **Purposes:** To gather feedback and improve the quality of our services.
+  - **Legal Basis:** Legitimate interest or consent, based on the nature of the survey.
+- **Competitions and Incident Management:**
+  - **Purposes:** To organize competitions and address any issues related to services.
+  - **Legal Basis:** Consent provided when participating in competitions or resolving issues.
+
+### 7. User Notifications
+
+**Content of the Section:**
+We use app notifications to inform you about specific things related to our services. These notifications include:
+- **Surveys:** Notifications for participating in new surveys.
+- **Competitions:** Notifications about new competitions or updates.
+- **Updates:** Notifications about important updates to the app.
+
+**Notification Mechanism:**
+- **In-App Notifications:** Push notifications are used to update you about surveys, competitions, or updates. You can control notification settings through the app's settings.
+- **Website Updates:** Any updates to the privacy policy will be posted on our website.
+- **Direct Communication:** Notifications via email for significant changes in data processing.
+
+### 8. Disclosure of Personal Data to Third Parties
+
+We may share your personal data with third parties in various contexts to ensure the provision of our services and protect you.
+
+- **Business Partners:** We may share your data with partners to provide services such as payment processing or technical support.
+- **Legal Authorities:** We may disclose your data if required by authorities or for legal purposes.
+- **Service Providers:** Such as companies that help us operate systems or deliver our services.
+
+### 9. Registration
+
+To access certain features of our site, you may need to register. You are granted access to these features under the following conditions:
+
+- **Use of Credentials:** You must use only your username and password.
+- **Third-Party Login:** You may also log in via third parties such as Google, Facebook, X (formerly Twitter), or Apple.
+- **Accurate Information:** You must provide accurate, complete, and up-to-date information at registration.
+- **Account Cancellation:** If you breach any of these terms, we reserve the right to cancel or suspend your account or access to the website without prior notice.
+
+### 10. Acceptable Content Guidelines
+
+When using our site, please adhere to the following content guidelines:
+
+- **No Rights Violation:** Your content must not infringe on the rights of any third parties anywhere in the world.
+- **Required Consent:** Obtain explicit consent from individuals before including their images or voices in your content. Do not upload content featuring individuals without their consent.
+- **Prohibited Content:** Your content must not include materials that are threatening, defamatory, obscene, indecent, aggressive, pornographic, hateful, discriminatory, intimidating, scandalous, inciting, or in breach of trust. It must also not cause technical damage (e.g., viruses, malware).
+- **Usage License:** By uploading your content to our site, you grant Yemen Youth Channel and its employees, as well as site users, a non-revocable, non-exclusive (time-unlimited) license to display and use your content without restriction, including for commercial purposes.
+- **Content Removal:** We do not guarantee the content will remain on the site for any specific period and may remove it as we see fit. We encourage you to keep backup copies of any content you send us.
+- **Content Removal Requests:** If you wish to request the removal of any content, please email us at [marketing@yemenshabab.net] with details of the content (referred to as "Reported Content"). We will make every effort to respond promptly and to cease the use of the reported content. However, we cannot guarantee that we can remove reported content if it has been published on the site or other media.
+
+### 11. Profiling
+
+We may use your personal data to assess certain aspects such as performance or interests to improve our services and personalize your experience.
+
+- **Profiling:** Includes evaluating you based on your data, such as interactions with services or ratings. This is used to provide recommendations or relevant content.
+
+### 12. International Data Transfers
+
+Your personal data may be transferred to countries outside your jurisdiction to ensure effective service delivery. We will ensure that your data is protected according to high security standards.
+
+### 13. Data Protection
+
+We take all appropriate security measures to protect your personal data from unauthorized access, use, or disclosure.
+
+- **Security Measures:** Includes encryption, access controls, and technical and organizational security measures.
+
+### 14. Your Rights Regarding Personal Data
+
+You have specific rights concerning your personal data, including the right to access, correct, delete, or restrict its processing.
+
+- **Access Request:** You can request a copy of your personal data that we hold.
+- **Data Correction:** If your data is inaccurate or incomplete, you can request its correction.
+- **Data Deletion:** You can request the deletion of your personal data under certain conditions.
+
+### 15. Data Retention
+
+We retain your personal data only for the period necessary to fulfill the purposes for which it was collected or as required by legal obligations.
+
+- **Retention Period:** The retention period depends on the type of data and legal requirements.
+
+### 16. Changes to Privacy Policy
+
+We reserve the right to amend this privacy policy from time to time, in accordance with the latest legal practices.
+
+- **Notifications:** We will notify you of significant changes via email or through a notice on our website.
+
+### 17. Links to Third-Party Sites
+
+Our websites may contain links to external sites. We are not responsible for the
+
+ privacy practices or content of these sites.
+
+- **Disclosure:** We advise you to review the privacy policy of any external site you visit.
+
+### 18. Direct Marketing
+
+We may use your data for direct marketing and advertising, and you can opt out at any time.
+
+- **Direct Marketing:** Includes sending promotional messages via email or other means. You can opt out at any time through preference settings or by contacting us.
+
+### 19. Contact Information
+
+For any inquiries regarding this policy or how we handle your personal data, please contact us via the following channels.
+
+- **Data Protection Officer:** Muath Nasr
+- **Email:** [muath@yemenshabab.net]
+- **Marketing and Public Relations Department:** [marketing@yemenshabab.net]
+- **Legal Complaints Department:** [legals@yemenshabab.net]
+
+### 20. Inquiries and Complaints
+
+If you have any inquiries or complaints regarding the use of your personal data, you can contact us via:
+
+- **Marketing and Public Relations Email:** [marketing@yemenshabab.net]
+- **Legal Complaints Email:** [legals@yemenshabab.net]
+
+### 21. Definitions
+
+**Basic Definitions:**
+- **Application:** Any program we provide to you.
+- **Relevant Jurisdiction:** The location providing an adequate level of personal data protection.
+- **Cookies:** A small file stored on your device to collect information.
+- **Controller:** The entity that determines how and why personal data is processed.
+- **Data Protection Authority:** The body responsible for overseeing compliance with data protection laws.
+- **GDPR:** General Data Protection Regulation.
+- **Personal Data:** Information that can be used to identify individuals directly or indirectly.
+
+If you have any additional questions or need further details about any of the sections above, please do not hesitate to contact us using the provided information.
+
+---
