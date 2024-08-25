@@ -189,6 +189,13 @@
 - **GDPR:** اللائحة العامة لحماية البيانات.
 - **البيانات الشخصية:** المعلومات التي يمكن استخدامها لتحديد الأفراد بشكل مباشر أو غير مباشر.
 
+
+**22. القانون المعمول به والاختصاص القضائي**
+
+تخضع هذه الشروط والأحكام لقوانين المملكة الأردنية الهاشمية وتُفسر وفقًا لها. وتخضع النزاعات الناشئة فيما يتعلق بهذه الشروط والأحكام أو أي استخدام للخدمة للاختصاص القضائي الحصري للمحاكم الأردنية. يجب رفع أي دعوى تتعلق بهذه الشروط والأحكام أو أي استخدام للخدمة خلال سنة واحدة من تاريخ نشوء هذه الدعوى أو سببها.
+
+إذا تبين أن أي بند من هذه الشروط والأحكام غير قانوني أو باطل أو غير قابل للتنفيذ وفقًا لقوانين أي دولة أو ولاية قضائية يُفترض أن تكون هذه الشروط والأحكام سارية فيها، فسيُعتبر هذا البند محذوفًا من هذه الشروط إلى الحد الذي يكون فيه هذا البند غير قانوني أو باطل أو غير قابل للتنفيذ. ستظل باقي الشروط والأحكام سارية المفعول وملزمة وقابلة للتنفيذ.
+
 إذا كان لديك أي أسئلة إضافية أو تحتاج إلى تفاصيل أكثر حول أي من الأقسام المذكورة أعلاه، يرجى عدم التردد في الاتصال بنا عبر المعلومات المقدمة.
 
 ---
@@ -386,6 +393,12 @@ If you have any inquiries or complaints regarding the use of your personal data,
 - **Data Protection Authority:** The body responsible for overseeing compliance with data protection laws.
 - **GDPR:** General Data Protection Regulation.
 - **Personal Data:** Information that can be used to identify individuals directly or indirectly.
+
+**22. Governing Law and Jurisdiction**
+
+These terms and conditions are governed by and construed in accordance with the laws of the Hashemite Kingdom of Jordan. Any disputes arising in connection with these terms and conditions or any use of the service are subject to the exclusive jurisdiction of the Jordanian courts. Any cause of action you may have related to these terms and conditions or any use of the service must be brought within one year from the date on which the claim or cause of action arises.
+
+If any provision of these terms and conditions is found to be unlawful, void, or unenforceable under the laws of any country or jurisdiction where these terms and conditions are intended to be effective, then that provision will be deemed deleted to the extent and within the jurisdiction in which it is unlawful, void, or unenforceable. The remaining terms and conditions will continue in full force and effect and remain binding and enforceable.
 
 If you have any additional questions or need further details about any of the sections above, please do not hesitate to contact us using the provided information.
 
